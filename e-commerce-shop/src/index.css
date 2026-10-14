@@ -2,14 +2,13 @@
 
 html, body {
   width: 100%;
-  max-width: 100%;
-  overflow-x: hidden; /* يمنع السكرول الجانبي الأبيض */
-  overscroll-behavior: none; 
-  scroll-behavior: smooth;/* يمنع السحب والمساحات البيضا لما توصل لآخر الصفحة */
+  height: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
   margin: 0;
   padding: 0;
-
 }
+
 .font-fredericka {
   font-family: 'Fredericka the Great', cursive;
 }
