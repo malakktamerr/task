@@ -4,7 +4,8 @@ html, body {
   width: 100%;
   max-width: 100%;
   overflow-x: hidden; /* يمنع السكرول الجانبي الأبيض */
-  overscroll-behavior: none; /* يمنع السحب والمساحات البيضا لما توصل لآخر الصفحة */
+  overscroll-behavior: none; 
+  scroll-behavior: smooth;/* يمنع السحب والمساحات البيضا لما توصل لآخر الصفحة */
   margin: 0;
   padding: 0;
 

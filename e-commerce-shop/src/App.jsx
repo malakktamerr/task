@@ -1483,7 +1483,7 @@ export default function App() {
           </div>
 
           <div className="border-t border-neutral-800 pt-8 text-[10px] text-neutral-500 font-light">
-            © 2025 MOSS. Made with care in Egypt.
+            © 2026 MOSS. Made with care in Egypt.
           </div>
         </div>
       </footer> 
